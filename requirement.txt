@@ -10,4 +10,5 @@ tensorflow==2.9.2
 fastapi==0.78.0
 uvicorn==0.18.3
 Jinja2==3.1.2
+google-cloud-storage
 -e .
